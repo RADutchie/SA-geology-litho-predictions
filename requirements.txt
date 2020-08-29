@@ -1,0 +1,7 @@
+numpy
+pandas
+scikit-learn
+seaborn
+dask==2.10.1
+matplotlib
+pyrolite==0.2.3
