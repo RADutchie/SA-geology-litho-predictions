@@ -9,7 +9,7 @@ Because this database hosts a significant amount of legacy data, and data collec
 These notebooks are an application of an ML protolith prediction application to add a lithology to a rock sample that does not have any lithology recorded
 against it in SA Geodata using whole rock geochmistry (https://github.com/RADutchie/Rock_protolith_predictor). They are an example of how we might clean and prepare a dataset for application to the model and then apply the model to provide additional insights and fill in missing data on legacy samples. In this case we can generate 148,954 new modeled lithology labels for rock samples held in the database.
 
-The SARIG Data Package is an extract from the GSSA's SA Geodata. This snapshot of the database was provided for the ExploreSA: Gawler Challenge and is valid as at Feburary 2020.
+The SARIG Data Package is an extract from the GSSA's SA Geodata database. This snapshot of the database was provided for the ExploreSA: Gawler Challenge and is valid as at Feburary 2020.
 
 To run the notebooks locally
 ------------
